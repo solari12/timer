@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TimeDisplay</string>
+    <string name="title_activity_main">TimeDisplay</string>
+    <string name="package_name">com.example.timedisplay</string>
+    <string name="custom_url_scheme">com.example.timedisplay</string>
+</resources>
